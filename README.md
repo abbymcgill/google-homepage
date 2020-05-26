@@ -1,0 +1,1 @@
+This project was meant as an intro to creating a webpage with basic html and css. I can now add an image to a page, move divs around on the page to get the correct layout, create a header and a footer, and use the css styles of existing webpages to add to mind. 
